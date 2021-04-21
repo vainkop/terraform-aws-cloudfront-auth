@@ -1,0 +1,8 @@
+region: us-east-1
+hostname: abc.example.com
+client_id: OKTA_CLIENT_ID_HERE
+client_secret: OKTA_CLIENT_SECRET_HERE
+redirect_uri: "https://example.com/_callback"
+base_url: "https://example.okta.com"
+acm_cert_arn: "arn:aws:acm:us-east-1:12345678910:certificate/a12b3cd4-0a12-12a3-1ab2-1ab2c34d5678"
+route53_zone_name: example.com
